@@ -22,3 +22,5 @@ const demo = function () {
     turnOff()
   }, 2000);
 }
+
+demo()
