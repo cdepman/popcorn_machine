@@ -20,7 +20,9 @@ const demo = function () {
   turnOn()
   setTimeout(() => {
     turnOff()
-  }, 2000);
+  }, 3000);
 }
 
+
+// run on/off demo
 demo()
