@@ -1,0 +1,22 @@
+{
+  "name": "popcorn_machine",
+  "version": "1.0.0",
+  "description": "An Automated Popcorn Machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdepman/popcorn_machine.git"
+  },
+  "author": "cdepman@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdepman/popcorn_machine/issues"
+  },
+  "homepage": "https://github.com/cdepman/popcorn_machine#readme",
+  "dependencies": {
+    "onoff": "^4.1.0"
+  }
+}
